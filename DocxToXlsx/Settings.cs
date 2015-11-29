@@ -92,6 +92,8 @@ namespace DocxToXlsx
 
     public class Filename: CellInfo
     {
+        [XmlElement("NthWord", IsNullable = true)]
+        public int? NthWord { get; set; }
     }
 
     public class Paragraph: CellInfo

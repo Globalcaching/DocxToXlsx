@@ -75,7 +75,18 @@ namespace DocxToXlsx
                     foreach (var fn in sheet.Elements.Filenames)
                     {
                         ICell cell = wbsheet.GetOrCreateCell(fn.Row, fn.Col);
-                        cell.SetCellValue(Path.GetFileName(_sourceFiles[i]));
+                        if (fn.NthWord == null)
+                        {
+                            cell.SetCellValue(Path.GetFileName(_sourceFiles[i]));
+                        }
+                        else
+                        {
+                            var parts = Path.GetFileName(_sourceFiles[i]).Split(new char[] { ' ', '.', '-', '_' }, StringSplitOptions.RemoveEmptyEntries);
+                            if (parts.Length > fn.NthWord.Value)
+                            {
+                                cell.SetCellValue(parts[fn.NthWord.Value - 1]);
+                            }
+                        }
                         fn.SetNextCell();
                     }
                     //add paragraph

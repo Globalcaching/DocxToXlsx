@@ -22,11 +22,16 @@
             <caption>
               <row>0</row>
               <col>0</col>
-              <text>Bestand</text>
+              <text>Complex</text>
             </caption>
             <caption>
               <row>0</row>
               <col>1</col>
+              <text>Bestand</text>
+            </caption>
+            <caption>
+              <row>0</row>
+              <col>2</col>
               <text>Installaties</text>
             </caption>
           </captions>
@@ -34,6 +39,12 @@
             <filename>
               <row>1</row>
               <col>0</col>
+              <NthWord>3</NthWord>
+              <orientation>rows</orientation>
+            </filename>
+            <filename>
+              <row>1</row>
+              <col>1</col>
               <orientation>rows</orientation>
             </filename>
           </filenames>
@@ -41,7 +52,7 @@
             <paragraph>
               <heading>Installaties</heading>
               <row>1</row>
-              <col>1</col>
+              <col>2</col>
               <orientation>rows</orientation>
             </paragraph>
           </paragraphs>
@@ -54,11 +65,16 @@
             <caption>
               <row>0</row>
               <col>0</col>
-              <text>Bestand</text>
+              <text>Complex</text>
             </caption>
             <caption>
               <row>0</row>
               <col>1</col>
+              <text>Bestand</text>
+            </caption>
+            <caption>
+              <row>0</row>
+              <col>2</col>
               <text>Onderhoud</text>
             </caption>
           </captions>
@@ -66,6 +82,12 @@
             <filename>
               <row>1</row>
               <col>0</col>
+              <NthWord>3</NthWord>
+              <orientation>rows</orientation>
+            </filename>
+            <filename>
+              <row>1</row>
+              <col>1</col>
               <orientation>rows</orientation>
             </filename>
           </filenames>
@@ -73,7 +95,7 @@
             <paragraph>
               <heading>Onderhoud</heading>
               <row>1</row>
-              <col>1</col>
+              <col>2</col>
               <orientation>rows</orientation>
             </paragraph>
           </paragraphs>
@@ -86,11 +108,16 @@
             <caption>
               <row>0</row>
               <col>0</col>
-              <text>Bestand</text>
+              <text>Complex</text>
             </caption>
             <caption>
               <row>0</row>
               <col>1</col>
+              <text>Bestand</text>
+            </caption>
+            <caption>
+              <row>0</row>
+              <col>2</col>
               <text>Technische overige bijzonderheden</text>
             </caption>
           </captions>
@@ -98,6 +125,12 @@
             <filename>
               <row>1</row>
               <col>0</col>
+              <NthWord>3</NthWord>
+              <orientation>rows</orientation>
+            </filename>
+            <filename>
+              <row>1</row>
+              <col>1</col>
               <orientation>rows</orientation>
             </filename>
           </filenames>
@@ -105,7 +138,7 @@
             <paragraph>
               <heading>Technische overige bijzonderheden</heading>
               <row>1</row>
-              <col>1</col>
+              <col>2</col>
               <orientation>rows</orientation>
             </paragraph>
           </paragraphs>
@@ -118,11 +151,16 @@
             <caption>
               <row>0</row>
               <col>0</col>
-              <text>Bestand</text>
+              <text>Complex</text>
             </caption>
             <caption>
               <row>0</row>
               <col>1</col>
+              <text>Bestand</text>
+            </caption>
+            <caption>
+              <row>0</row>
+              <col>2</col>
               <text>Doelgroep</text>
             </caption>
           </captions>
@@ -130,6 +168,12 @@
             <filename>
               <row>1</row>
               <col>0</col>
+              <NthWord>3</NthWord>
+              <orientation>rows</orientation>
+            </filename>
+            <filename>
+              <row>1</row>
+              <col>1</col>
               <orientation>rows</orientation>
             </filename>
           </filenames>
@@ -137,7 +181,7 @@
             <paragraph>
               <heading>Doelgroep</heading>
               <row>1</row>
-              <col>1</col>
+              <col>2</col>
               <orientation>rows</orientation>
             </paragraph>
           </paragraphs>
@@ -150,11 +194,16 @@
             <caption>
               <row>0</row>
               <col>0</col>
-              <text>Bestand</text>
+              <text>Complex</text>
             </caption>
             <caption>
               <row>0</row>
               <col>1</col>
+              <text>Bestand</text>
+            </caption>
+            <caption>
+              <row>0</row>
+              <col>2</col>
               <text>Aandachtspunten Krachtig Onthaal</text>
             </caption>
           </captions>
@@ -162,6 +211,12 @@
             <filename>
               <row>1</row>
               <col>0</col>
+              <NthWord>3</NthWord>
+              <orientation>rows</orientation>
+            </filename>
+            <filename>
+              <row>1</row>
+              <col>1</col>
               <orientation>rows</orientation>
             </filename>
           </filenames>
@@ -169,7 +224,7 @@
             <paragraph>
               <heading>Aandachtspunten Krachtig Onthaal</heading>
               <row>1</row>
-              <col>1</col>
+              <col>2</col>
               <orientation>rows</orientation>
             </paragraph>
           </paragraphs>
@@ -182,11 +237,16 @@
             <caption>
               <row>0</row>
               <col>0</col>
-              <text>Bestand</text>
+              <text>Complex</text>
             </caption>
             <caption>
               <row>0</row>
               <col>1</col>
+              <text>Bestand</text>
+            </caption>
+            <caption>
+              <row>0</row>
+              <col>2</col>
               <text>Bijzondere kenmerken huurders</text>
             </caption>
           </captions>
@@ -194,6 +254,12 @@
             <filename>
               <row>1</row>
               <col>0</col>
+              <NthWord>3</NthWord>
+              <orientation>rows</orientation>
+            </filename>
+            <filename>
+              <row>1</row>
+              <col>1</col>
               <orientation>rows</orientation>
             </filename>
           </filenames>
@@ -201,7 +267,7 @@
             <paragraph>
               <heading>Bijzondere kenmerken huurders</heading>
               <row>1</row>
-              <col>1</col>
+              <col>2</col>
               <orientation>rows</orientation>
             </paragraph>
           </paragraphs>
@@ -214,11 +280,16 @@
             <caption>
               <row>0</row>
               <col>0</col>
-              <text>Bestand</text>
+              <text>Complex</text>
             </caption>
             <caption>
               <row>0</row>
               <col>1</col>
+              <text>Bestand</text>
+            </caption>
+            <caption>
+              <row>0</row>
+              <col>2</col>
               <text>Bijzonderheden verhuurbaarheid</text>
             </caption>
           </captions>
@@ -226,6 +297,12 @@
             <filename>
               <row>1</row>
               <col>0</col>
+              <NthWord>3</NthWord>
+              <orientation>rows</orientation>
+            </filename>
+            <filename>
+              <row>1</row>
+              <col>1</col>
               <orientation>rows</orientation>
             </filename>
           </filenames>
@@ -233,7 +310,7 @@
             <paragraph>
               <heading>Bijzonderheden verhuurbaarheid</heading>
               <row>1</row>
-              <col>1</col>
+              <col>2</col>
               <orientation>rows</orientation>
             </paragraph>
           </paragraphs>
@@ -246,11 +323,16 @@
             <caption>
               <row>0</row>
               <col>0</col>
-              <text>Bestand</text>
+              <text>Complex</text>
             </caption>
             <caption>
               <row>0</row>
               <col>1</col>
+              <text>Bestand</text>
+            </caption>
+            <caption>
+              <row>0</row>
+              <col>2</col>
               <text>Verhuur overige bijzonderheden</text>
             </caption>
           </captions>
@@ -258,6 +340,12 @@
             <filename>
               <row>1</row>
               <col>0</col>
+              <NthWord>3</NthWord>
+              <orientation>rows</orientation>
+            </filename>
+            <filename>
+              <row>1</row>
+              <col>1</col>
               <orientation>rows</orientation>
             </filename>
           </filenames>
@@ -265,7 +353,7 @@
             <paragraph>
               <heading>Verhuur overige bijzonderheden</heading>
               <row>1</row>
-              <col>1</col>
+              <col>2</col>
               <orientation>rows</orientation>
             </paragraph>
           </paragraphs>
@@ -278,11 +366,16 @@
             <caption>
               <row>0</row>
               <col>0</col>
-              <text>Bestand</text>
+              <text>Complex</text>
             </caption>
             <caption>
               <row>0</row>
               <col>1</col>
+              <text>Bestand</text>
+            </caption>
+            <caption>
+              <row>0</row>
+              <col>2</col>
               <text>Bijzonderheden openbaar gebied</text>
             </caption>
           </captions>
@@ -290,6 +383,12 @@
             <filename>
               <row>1</row>
               <col>0</col>
+              <NthWord>3</NthWord>
+              <orientation>rows</orientation>
+            </filename>
+            <filename>
+              <row>1</row>
+              <col>1</col>
               <orientation>rows</orientation>
             </filename>
           </filenames>
@@ -297,7 +396,7 @@
             <paragraph>
               <heading>Bijzonderheden openbaar gebied</heading>
               <row>1</row>
-              <col>1</col>
+              <col>2</col>
               <orientation>rows</orientation>
             </paragraph>
           </paragraphs>
@@ -310,11 +409,16 @@
             <caption>
               <row>0</row>
               <col>0</col>
-              <text>Bestand</text>
+              <text>Complex</text>
             </caption>
             <caption>
               <row>0</row>
               <col>1</col>
+              <text>Bestand</text>
+            </caption>
+            <caption>
+              <row>0</row>
+              <col>2</col>
               <text>Specifieke leefregels</text>
             </caption>
           </captions>
@@ -322,6 +426,12 @@
             <filename>
               <row>1</row>
               <col>0</col>
+              <NthWord>3</NthWord>
+              <orientation>rows</orientation>
+            </filename>
+            <filename>
+              <row>1</row>
+              <col>1</col>
               <orientation>rows</orientation>
             </filename>
           </filenames>
@@ -329,7 +439,7 @@
             <paragraph>
               <heading>Specifieke leefregels</heading>
               <row>1</row>
-              <col>1</col>
+              <col>2</col>
               <orientation>rows</orientation>
             </paragraph>
           </paragraphs>
@@ -342,11 +452,16 @@
             <caption>
               <row>0</row>
               <col>0</col>
-              <text>Bestand</text>
+              <text>Complex</text>
             </caption>
             <caption>
               <row>0</row>
               <col>1</col>
+              <text>Bestand</text>
+            </caption>
+            <caption>
+              <row>0</row>
+              <col>2</col>
               <text>Collectieve overlast</text>
             </caption>
           </captions>
@@ -354,6 +469,12 @@
             <filename>
               <row>1</row>
               <col>0</col>
+              <NthWord>3</NthWord>
+              <orientation>rows</orientation>
+            </filename>
+            <filename>
+              <row>1</row>
+              <col>1</col>
               <orientation>rows</orientation>
             </filename>
           </filenames>
@@ -361,7 +482,7 @@
             <paragraph>
               <heading>Collectieve overlast</heading>
               <row>1</row>
-              <col>1</col>
+              <col>2</col>
               <orientation>rows</orientation>
             </paragraph>
           </paragraphs>
@@ -374,11 +495,16 @@
             <caption>
               <row>0</row>
               <col>0</col>
-              <text>Bestand</text>
+              <text>Complex</text>
             </caption>
             <caption>
               <row>0</row>
               <col>1</col>
+              <text>Bestand</text>
+            </caption>
+            <caption>
+              <row>0</row>
+              <col>2</col>
               <text>Wijk en buurt overige bijzonderheden</text>
             </caption>
           </captions>
@@ -386,6 +512,12 @@
             <filename>
               <row>1</row>
               <col>0</col>
+              <NthWord>3</NthWord>
+              <orientation>rows</orientation>
+            </filename>
+            <filename>
+              <row>1</row>
+              <col>1</col>
               <orientation>rows</orientation>
             </filename>
           </filenames>
@@ -393,7 +525,7 @@
             <paragraph>
               <heading>Wijk en buurt overige bijzonderheden</heading>
               <row>1</row>
-              <col>1</col>
+              <col>2</col>
               <orientation>rows</orientation>
             </paragraph>
           </paragraphs>
@@ -406,11 +538,16 @@
             <caption>
               <row>0</row>
               <col>0</col>
-              <text>Bestand</text>
+              <text>Complex</text>
             </caption>
             <caption>
               <row>0</row>
               <col>1</col>
+              <text>Bestand</text>
+            </caption>
+            <caption>
+              <row>0</row>
+              <col>2</col>
               <text>Planmatig onderhoud</text>
             </caption>
           </captions>
@@ -418,6 +555,12 @@
             <filename>
               <row>1</row>
               <col>0</col>
+              <NthWord>3</NthWord>
+              <orientation>rows</orientation>
+            </filename>
+            <filename>
+              <row>1</row>
+              <col>1</col>
               <orientation>rows</orientation>
             </filename>
           </filenames>
@@ -425,7 +568,7 @@
             <paragraph>
               <heading>Planmatig onderhoud</heading>
               <row>1</row>
-              <col>1</col>
+              <col>2</col>
               <orientation>rows</orientation>
             </paragraph>
           </paragraphs>
@@ -438,11 +581,16 @@
             <caption>
               <row>0</row>
               <col>0</col>
-              <text>Bestand</text>
+              <text>Complex</text>
             </caption>
             <caption>
               <row>0</row>
               <col>1</col>
+              <text>Bestand</text>
+            </caption>
+            <caption>
+              <row>0</row>
+              <col>2</col>
               <text>Projecten</text>
             </caption>
           </captions>
@@ -450,6 +598,12 @@
             <filename>
               <row>1</row>
               <col>0</col>
+              <NthWord>3</NthWord>
+              <orientation>rows</orientation>
+            </filename>
+            <filename>
+              <row>1</row>
+              <col>1</col>
               <orientation>rows</orientation>
             </filename>
           </filenames>
@@ -457,7 +611,7 @@
             <paragraph>
               <heading>Projecten</heading>
               <row>1</row>
-              <col>1</col>
+              <col>2</col>
               <orientation>rows</orientation>
             </paragraph>
           </paragraphs>
@@ -470,11 +624,16 @@
             <caption>
               <row>0</row>
               <col>0</col>
-              <text>Bestand</text>
+              <text>Complex</text>
             </caption>
             <caption>
               <row>0</row>
               <col>1</col>
+              <text>Bestand</text>
+            </caption>
+            <caption>
+              <row>0</row>
+              <col>2</col>
               <text>Sloop/nieuwbouw</text>
             </caption>
           </captions>
@@ -482,6 +641,12 @@
             <filename>
               <row>1</row>
               <col>0</col>
+              <NthWord>3</NthWord>
+              <orientation>rows</orientation>
+            </filename>
+            <filename>
+              <row>1</row>
+              <col>1</col>
               <orientation>rows</orientation>
             </filename>
           </filenames>
@@ -489,7 +654,7 @@
             <paragraph>
               <heading>Sloop/nieuwbouw</heading>
               <row>1</row>
-              <col>1</col>
+              <col>2</col>
               <orientation>rows</orientation>
             </paragraph>
           </paragraphs>
